@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack1_demo=self.webpackChunkwebpack1_demo||[]).push([[37],{37:(e,c,k)=>{function o(){console.log("我是一个懒加载")}k.r(c),k.d(c,{default:()=>o})}}]);
