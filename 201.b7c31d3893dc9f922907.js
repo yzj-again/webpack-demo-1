@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack1_demo=self.webpackChunkwebpack1_demo||[]).push([[201],{122:(e,c,n)=>{n.r(c),n.d(c,{default:()=>s});const o=n.p+"2a41ce7b14eaa93f3222.jpg";function s(){console.log(o);const e=`<img src="${o}">`;document.getElementById("app1").innerHTML=e,console.log("我是一个懒加载")}}}]);
