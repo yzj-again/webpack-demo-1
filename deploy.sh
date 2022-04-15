@@ -1,6 +1,6 @@
 npm run build &&
 git checkout gh-pages &&
-find . ! -name "dist" -exec rm -rf {} \ &&
+rm -rf !dist
 mv dist/* ./ &&
 rm -rf dist &&
 git add . &&
