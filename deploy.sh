@@ -1,6 +1,6 @@
 npm run build &&
 git checkout gh-pages &&
-rm -rf !dist
+rm -rf *jpg *js *css
 mv dist/* ./ &&
 rm -rf dist &&
 git add . &&
