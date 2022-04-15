@@ -1,10 +1,7 @@
 import x from './x.js'
-import myImage from './assets/img/acg.gy_04.jpg'
 
 console.log(x)
-console.log(myImage)
 const div = document.getElementById('app1')
-div.innerHTML = `<img src="${myImage}">`
 const button = document.createElement('button')
 button.innerHTML = "懒加载"
 button.onclick = () => {
